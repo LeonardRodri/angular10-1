@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Gel",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "name": "Notebook Vaio",
+      "price": 2005.89
+    },
+    {
+      "name": "Geladeira",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Mochila DELL",
+      "price": 199.99
+    },
+    {
+      "name": "Geladeira",
+      "": "19013",
+      "id": 5
+    }
+  ]
+}
